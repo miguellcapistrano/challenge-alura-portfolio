@@ -93,8 +93,13 @@ section.menu{
 }
 
 .title__profile{
+<<<<<<< HEAD
     width: 487px;
     height: 404px;
+=======
+    width: 368px;
+    height: 368px;
+>>>>>>> acb5328fb571c1e44b3168505b7c98ac435942f7
 }
 
 .title__container{
@@ -452,6 +457,7 @@ section.menu{
 utilize como referência os breakpoints @media abaixo*/
 
 /*Tablet*/
+<<<<<<< HEAD
 @media (max-width: 768px)  {
 /* Menu */
     .menu {
@@ -528,11 +534,22 @@ utilize como referência os breakpoints @media abaixo*/
         gap: 16px;
         justify-content: center;
     }
+=======
+@media (min-width: 768px) {
+
+/* Menu */
+
+/*title*/
+
+/*Skills*/
+
+>>>>>>> acb5328fb571c1e44b3168505b7c98ac435942f7
 /*Hobbies*/
 
 /*Experiências acadêmicas*/
 
 /*Expeirência profissional*/
+<<<<<<< HEAD
     .experience{
         display: flex;
         padding: 32px;
@@ -579,10 +596,13 @@ utilize como referência os breakpoints @media abaixo*/
         flex-direction: column;
         padding: 20px;
     }    
+=======
+>>>>>>> acb5328fb571c1e44b3168505b7c98ac435942f7
 
 }
 
 /*Mobile*/
+<<<<<<< HEAD
 @media (max-width: 425px) {
 
 /*Menu*/
@@ -733,6 +753,26 @@ utilize como referência os breakpoints @media abaixo*/
         background-color: #94FFD8;
     }
  /*Contato*/
+=======
+@media (min-width: 425px) {
+
+/*Menu*/
+
+/*Titulo*/
+
+/*Sessão sobre*/
+
+/*Skills*/
+
+/*Hobbies*/
+ 
+/*Formação Acadêmica*/
+
+/*Experiência Profissional*/
+
+ /*Contato*/
+
+>>>>>>> acb5328fb571c1e44b3168505b7c98ac435942f7
 /*Footer*/
 
 }
